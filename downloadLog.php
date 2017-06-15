@@ -13,10 +13,11 @@ require_once("connection.php");
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
+
 if(isset($_REQUEST['file']))
 {
 	$file = $_REQUEST['file'];
-	$file=substr($basepath,0,-1).$file;
+	//$file=substr($basepath,0,-1).$file;
 	header('Content-type: text/csv');
 	header("Content-disposition: attachment;filename=log.csv");
 	
@@ -34,7 +35,7 @@ if(isset($_REQUEST['file']))
 	{
 		$row = mysql_fetch_assoc($result);
 		$head = explode(",",$row['fields']);
-		
+
 		for($i=0;$i<count($head);$i++)
 		$ret.=$head[$i].",";
 		
@@ -42,6 +43,7 @@ if(isset($_REQUEST['file']))
 	}
 	
 	$ret.="\n";
+	//$ret.=",";
 	
 	$query = "select * from logs where csvFile='$file' and type='field'";
 	$result = mysql_query($query);
@@ -50,6 +52,7 @@ if(isset($_REQUEST['file']))
 	{
 		for($i=0;$i<mysql_num_rows($result);$i++)
 		{
+                        $ret.=",";
 			$row=mysql_fetch_assoc($result);
 			$fields = explode(",",$row['fields']);
 			

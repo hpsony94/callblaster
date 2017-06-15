@@ -40,7 +40,7 @@ $count=0;
 do
 {
 	if($count>2)break;
-	$result = $agi->get_data("$audio",5000,1);
+	$result = $agi->get_data("$audio",2000,1);
 	$keys = $result['result'];
 	if($keys=="1" or $keys=="2") break;
 	$count++;

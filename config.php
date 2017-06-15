@@ -13,13 +13,13 @@
 //.............................................
 $db_host="localhost";
 $db_name="asterisk";
-$db_user="asteriskuser";
-$db_pass="amp109";
+$db_user="root";
+$db_pass="xyengle123";
 //.............................................
 
 
 //caller id and name
-$caller_id="Nethram<4088271111>";
+$caller_id="800Tigers";
 //..............................................
 
 
@@ -28,7 +28,7 @@ $caller_id="Nethram<4088271111>";
 
 $basepath="/var/www/html/callblaster/";
 
-$agipath="/var/lib/asterisk/agi-bin/";
+$agipath="/var/lib/asterisk/agi-bin/phpagi-2.20/";
 
 $welcomeSound = $basepath."audio/welcome";
 //sound file without extension

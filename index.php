@@ -10,22 +10,26 @@
 */
 
 require_once ('config.php');
-
-if($_POST['action']=="Update Config")
-{
-	$content = "[callblaster]\n"."interval=".$_POST['interval']."\n[press1]\n"."context=".$_POST['context1']."\n"."extension=".$_POST['exten1']."\n";
-	$content.= "[press2]\n"."context=".$_POST['context2']."\n"."extension=".$_POST['exten2']."\n";
-	
-	file_put_contents("config.ini",$content);
-	
-}
-
 $config = parse_ini_file("config.ini",true);
 $interval = $config['callblaster']['interval'];
 $context1 = $config['press1']['context'];
 $exten1 = $config['press1']['extension'];
 $context2 = $config['press2']['context'];
 $exten2 = $config['press2']['extension'];
+
+
+if(isset($_POST['action']))
+{
+  if($_POST['action']=="Update Config")
+  {
+	$content = "[callblaster]\n"."interval=".$_POST['interval']."\n[press1]\n"."context=".$_POST['context1']."\n"."extension=".$_POST['exten1']."\n";
+	$content.= "[press2]\n"."context=".$_POST['context2']."\n"."extension=".$_POST['exten2']."\n";
+	
+	file_put_contents("config.ini",$content);
+	
+  }
+}
+
 ?>
 <html>
 	<head>
@@ -111,18 +115,21 @@ $(document).ready(function(){
 </html>
 <?php
 
+require ('config.php');
+
 function list_logs()
 {
+  global $basepath;
   exec("ls -t files/",$files);
   echo("<table>");
   foreach($files as $file)
   {
     if(preg_match("/csv$/",$file))
     {
-      $size     = filesize("files/$file")/1024;
+      $size     = filesize("files/$file");
       $filedate = date ("m/d/Y H:i:s", filemtime("files/$file"));
-	$link="downloadLog.php?file=".urlencode($basepath."/files/$file");
-      echo "<tr> <td> <a href='$link'>".$file."</a> </td> <td> $filedate </td> <td> $size kB</td>";
+	$link="downloadLog.php?file=".urlencode($basepath."files/$file");
+      echo "-<tr> - <td> <a href='$link'>".$file."</a>  </td> - <td> |  $filedate </td> - <td> | $size Bytes</td> ";
     }
   }
   echo("</table>");

@@ -42,12 +42,12 @@ if($_REQUEST['action']=="Call")
 	 $fileName= $basepath."audio/".basename($file, $exten);
 	                                 
 	
-	$callFile = "Channel: local/$phone@from-internal\n";
+	$callFile = "Channel: SIP/$phone\n";
 	$callFile .= "Application: Playback\n";
 	$callFile .= "CallerID: $caller_id\n";
 	$callFile .= "Data: $fileName\n";
 	file_put_contents("/tmp/demoCall.call",$callFile);
-	exec("mv /tmp/demoCall.call /var/spool/asterisk/outgoing/demoCall.call");
+	exec("cp /tmp/demoCall.call /var/spool/asterisk/outgoing/demoCall.call");
 	echo "<script type='text/javascript'>alert('Call initiated'); window.location='audioFile.php';</script>";
 	
 }

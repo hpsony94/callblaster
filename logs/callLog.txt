@@ -1,0 +1,91 @@
+2017-06-06T15:18:22+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496762302test.csv
+2017-06-06T15:18:32+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496762302test.csv
+2017-06-06T15:26:02+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496762762test.csv
+2017-06-06T15:26:12+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496762762test.csv
+2017-06-06T15:27:04+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496762824test.csv
+2017-06-06T15:27:14+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496762824test.csv
+2017-06-06T15:38:06+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496763486test.csv
+Tue, 06 Jun 2017 15:38:11 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-06T15:38:16+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496763486test.csv
+Tue, 06 Jun 2017 15:38:21 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-06T15:40:38+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496763638test.csv
+Tue, 06 Jun 2017 15:40:41 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-06T15:40:48+00:00 -- Call file to 16001 created -- CSV file: /var/www/html/callblaster/files/1496763638test.csv
+Tue, 06 Jun 2017 15:40:52 +0000 -- Call in progress -- Number:6001  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-06T15:40:58+00:00 -- Call file to 11002 created -- CSV file: /var/www/html/callblaster/files/1496763638test.csv
+Tue, 06 Jun 2017 15:41:02 +0000 -- Call in progress -- Number:1002  -- Audio:/var/www/html/callblaster/audio/welcome
+Tue, 06 Jun 2017 15:41:33 +0000 -- User pressed  -- Number:6001  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-06T15:46:11+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496763971test.csv
+Tue, 06 Jun 2017 15:46:15 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Tue, 06 Jun 2017 15:46:20 +0000 -- User pressed 1 -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-06T15:50:56+00:00 -- Call file to 16001 created -- CSV file: /var/www/html/callblaster/files/1496764256test.csv
+Tue, 06 Jun 2017 15:51:00 +0000 -- Call in progress -- Number:6001  -- Audio:/var/www/html/callblaster/audio/welcome
+Tue, 06 Jun 2017 15:51:07 +0000 -- User pressed 1 -- Number:6001  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-06T16:06:09+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496765169test.csv
+Tue, 06 Jun 2017 16:06:15 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Tue, 06 Jun 2017 16:06:27 +0000 -- User pressed 1 -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-06T16:20:00+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496766000test.csv
+Tue, 06 Jun 2017 16:20:04 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Tue, 06 Jun 2017 16:20:09 +0000 -- User pressed 2 -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-06T18:00:32+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496772032test.csv
+Tue, 06 Jun 2017 18:00:36 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Tue, 06 Jun 2017 18:00:43 +0000 -- User pressed 1 -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-06T18:10:07+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496772607test.csv
+2017-06-06T18:10:59+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496772659test.csv
+2017-06-06T18:11:14+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496772674test.csv
+Tue, 06 Jun 2017 18:11:17 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Tue, 06 Jun 2017 18:11:22 +0000 -- User pressed 2 -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-06T18:14:29+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496772869test.csv
+Tue, 06 Jun 2017 18:14:31 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Tue, 06 Jun 2017 18:14:34 +0000 -- User pressed 1 -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Tue, 06 Jun 2017 18:15:40 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Tue, 06 Jun 2017 18:16:06 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Tue, 06 Jun 2017 18:16:13 +0000 -- User pressed 1 -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Tue, 06 Jun 2017 18:16:21 +0000 -- User pressed  -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-08T07:14:19+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496906059sonys.csv
+Thu, 08 Jun 2017 07:14:22 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-08T14:16:21+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496931381test.csv
+Thu, 08 Jun 2017 14:16:24 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 14:16:29 +0000 -- User pressed 1 -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-08T14:24:48+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496931888test.csv
+Thu, 08 Jun 2017 14:24:57 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 14:25:03 +0000 -- User pressed 1 -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-08T14:57:53+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496933872test.csv
+2017-06-08T14:59:12+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496933952test.csv
+Thu, 08 Jun 2017 14:59:20 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 14:59:25 +0000 -- User pressed 1 -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-08T15:02:45+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496934165test.csv
+Thu, 08 Jun 2017 15:02:47 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 15:03:28 +0000 -- User pressed  -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-08T15:05:22+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496934322test.csv
+2017-06-08T15:05:40+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496934340test.csv
+2017-06-08T15:06:11+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496934371test.csv
+2017-06-08T15:07:14+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496934434test.csv
+Thu, 08 Jun 2017 15:07:17 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-08T15:07:44+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496934464test.csv
+Thu, 08 Jun 2017 15:07:46 +0000 -- User pressed  -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 15:07:47 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 15:08:06 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 15:08:20 +0000 -- User pressed  -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 15:08:39 +0000 -- User pressed  -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 15:10:28 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 15:11:01 +0000 -- User pressed  -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 15:11:17 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 15:11:50 +0000 -- User pressed  -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 15:20:42 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 15:21:15 +0000 -- User pressed  -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-08T15:38:37+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496936317test.csv
+2017-06-08T15:39:47+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496936387test.csv
+Thu, 08 Jun 2017 15:40:00 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 15:40:33 +0000 -- User pressed  -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-08T15:41:59+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1496936519test.csv
+Thu, 08 Jun 2017 15:42:04 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 15:42:12 +0000 -- User pressed 1 -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 15:43:41 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Thu, 08 Jun 2017 15:44:13 +0000 -- User pressed  -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-09T10:05:13+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1497002713sonys.csv
+Fri, 09 Jun 2017 10:05:17 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Fri, 09 Jun 2017 10:05:35 +0000 -- User pressed 1 -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+2017-06-09T11:02:47+00:00 -- Call file to 11003 created -- CSV file: /var/www/html/callblaster/files/1497006167sonys.csv
+Fri, 09 Jun 2017 11:02:52 +0000 -- Call in progress -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
+Fri, 09 Jun 2017 11:02:58 +0000 -- User pressed 1 -- Number:1003  -- Audio:/var/www/html/callblaster/audio/welcome
